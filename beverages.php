@@ -1,10 +1,5 @@
 <?php
-$sell = "SELLING BEVERAGES...";
-function show() {	
-	global $sell;
-	echo $sell;
-}
-show();
+echo "<strong>SELLING BEVERAGES...</strong>";
 echo "<br/>";
 $beverage1 = "Red Label -> R$84.00";
     function show1() {
